@@ -24,7 +24,7 @@ Here are the environment details from Unity
         Vector Action space size (per agent): 4
         Vector Action descriptions: , , , 
 ```
-The space has 37 dimensions containing the agent's velocity, along with ray-based perception of objects around the agent's forward direction. Action space  has 4 dimensions, corresponding to:
+The space has 37 dimensions containing the agent's velocity, along with ray-based perception of objects around the agent's forward direction. Action space  has 4 dimensions, corresponding to:  
 &emsp;&emsp;**0**: move forward.  
 &emsp;&emsp;**1**: move backward.  
 &emsp;&emsp;**2**: turn left.  
