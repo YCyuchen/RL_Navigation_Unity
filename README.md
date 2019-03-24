@@ -32,4 +32,5 @@ The space has 37 dimensions containing the agent's velocity, along with ray-base
 
 ## Get started
 File model.py contains the network for Q-learning and dqn_agent contains policy for agent to make action.
+
 Run Navigation.ipynb to see the details.
